@@ -1,0 +1,12 @@
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Domain\bin\Debug\net5.0\LPsalut.Domain.deps.json
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Domain\bin\Debug\net5.0\LPsalut.Domain.dll
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Domain\bin\Debug\net5.0\ref\LPsalut.Domain.dll
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Domain\bin\Debug\net5.0\LPsalut.Domain.pdb
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Domain\obj\Debug\net5.0\LPsalut.Domain.csproj.AssemblyReference.cache
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Domain\obj\Debug\net5.0\LPsalut.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Domain\obj\Debug\net5.0\LPsalut.Domain.AssemblyInfoInputs.cache
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Domain\obj\Debug\net5.0\LPsalut.Domain.AssemblyInfo.cs
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Domain\obj\Debug\net5.0\LPsalut.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Domain\obj\Debug\net5.0\LPsalut.Domain.dll
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Domain\obj\Debug\net5.0\ref\LPsalut.Domain.dll
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Domain\obj\Debug\net5.0\LPsalut.Domain.pdb

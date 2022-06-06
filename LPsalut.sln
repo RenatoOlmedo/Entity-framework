@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{94BAF8FF-4A81-496A-B533-7B56FC1212A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPsalut.API", "src\LPsalut.API\LPsalut.API.csproj", "{26370EC6-1057-4D74-8C4F-3CA2D2DE2240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPsalut.Domain", "LPsalut.Domain\LPsalut.Domain.csproj", "{E71FB2FB-BE2C-42AD-A66E-A3837C756FD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LPsalut.API", "LPsalut.API", "{237546E1-DDE6-4499-9D68-D59E7649E97C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LPsalut.Domain", "LPsalut.Domain", "{C2C693A4-124B-4600-8522-AA2E4CD50064}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LPsalut.Infrastructure.Data", "LPsalut.Infrastructure.Data", "{56FF6D08-617F-4670-97B6-622350BD4557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPsalut.Infrastructure.Data", "LPsalut.Infrastructure.Data\LPsalut.Infrastructure.Data.csproj", "{36A449B2-0FB0-47E9-89A4-8F802417E6A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26370EC6-1057-4D74-8C4F-3CA2D2DE2240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26370EC6-1057-4D74-8C4F-3CA2D2DE2240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26370EC6-1057-4D74-8C4F-3CA2D2DE2240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26370EC6-1057-4D74-8C4F-3CA2D2DE2240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71FB2FB-BE2C-42AD-A66E-A3837C756FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71FB2FB-BE2C-42AD-A66E-A3837C756FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71FB2FB-BE2C-42AD-A66E-A3837C756FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71FB2FB-BE2C-42AD-A66E-A3837C756FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A449B2-0FB0-47E9-89A4-8F802417E6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A449B2-0FB0-47E9-89A4-8F802417E6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A449B2-0FB0-47E9-89A4-8F802417E6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A449B2-0FB0-47E9-89A4-8F802417E6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{26370EC6-1057-4D74-8C4F-3CA2D2DE2240} = {237546E1-DDE6-4499-9D68-D59E7649E97C}
+		{E71FB2FB-BE2C-42AD-A66E-A3837C756FD8} = {C2C693A4-124B-4600-8522-AA2E4CD50064}
+		{237546E1-DDE6-4499-9D68-D59E7649E97C} = {94BAF8FF-4A81-496A-B533-7B56FC1212A8}
+		{C2C693A4-124B-4600-8522-AA2E4CD50064} = {94BAF8FF-4A81-496A-B533-7B56FC1212A8}
+		{56FF6D08-617F-4670-97B6-622350BD4557} = {94BAF8FF-4A81-496A-B533-7B56FC1212A8}
+		{36A449B2-0FB0-47E9-89A4-8F802417E6A2} = {56FF6D08-617F-4670-97B6-622350BD4557}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A72C75-83DA-4E61-B919-05A2DE718C57}
+	EndGlobalSection
+EndGlobal

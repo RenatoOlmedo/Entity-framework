@@ -1,0 +1,15 @@
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\bin\Debug\net5.0\LPsalut.Infrastructure.Data.deps.json
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\bin\Debug\net5.0\LPsalut.Infrastructure.Data.dll
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\bin\Debug\net5.0\ref\LPsalut.Infrastructure.Data.dll
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\bin\Debug\net5.0\LPsalut.Infrastructure.Data.pdb
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\bin\Debug\net5.0\LPsalut.Domain.dll
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\bin\Debug\net5.0\LPsalut.Domain.pdb
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\obj\Debug\net5.0\LPsalut.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\obj\Debug\net5.0\LPsalut.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\obj\Debug\net5.0\LPsalut.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\obj\Debug\net5.0\LPsalut.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\obj\Debug\net5.0\LPsalut.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\obj\Debug\net5.0\LPsalut.Infrastructure.Data.csproj.CopyComplete
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\obj\Debug\net5.0\LPsalut.Infrastructure.Data.dll
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\obj\Debug\net5.0\ref\LPsalut.Infrastructure.Data.dll
+C:\Users\Renato\Desktop\LPsalut\LPsalut.Infrastructure.Data\obj\Debug\net5.0\LPsalut.Infrastructure.Data.pdb
