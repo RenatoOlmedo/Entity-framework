@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="index.js"></script>
+</head>
+<body>
+    <form action="index.html" method="post">
+        <h1>Cadastro de notas</h1>
+        <div class="col-md-12 form-group">
+            <label for="cnpj">CNPJ</label>
+            <input type="text" name="cnpj" id="cnpj" placeholder="00.000.000/0000-00" onchange="formataCnpj()">
+            <label for="canal">Canal de compra</label>
+            <select name="canal" id="canal">
+                <option value="">Selecione</option>
+                <option value="Loja">Loja</option>
+                <option value="Internet">Internet</option>
+                <option value="Telefone">Telefone</option>
+            </select>
+            <label for="data">Data da compra</label>
+            <input type="date" name="data" id="data">
+            <label for="cupom">Número do cupom fiscal</label>
+            <input type="text" name="cupom" id="cupom" placeholder="Número do cupom fiscal">
+        </div>
+        <div class="col-md-12 form-group">
+            <label for="produto">Selecione os produtos</label>
+            <select name="produto" id="produto">
+            </select>
+            <label for="quantidade">Quantidade</label>
+            <input type="number" name="quantidade" id="quantidade" placeholder="Quantidade">
+            <button type="button" onclick="adicionarSacola()" id="adicionar">Adicionar produto</button>
+        </div>
+        <div class="form-row">
+            <div class="col-md-8 form-group">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Produto</th>
+                            <th>Quantidade</th>
+                            <th>Valor</th>
+                        </tr>
+                    </thead>
+                    <tbody id="sacola"><tbody>
+                </table>
+            </div>
+            <div class="col-md-4 form-group">
+                <label for="valorTotal">Valor total de produtos</label>
+                <input type="text" name="valor_total" id="valorTotal" placeholder="Valor total">
+                <label for="cupom_fiscal">Cupom fiscal</label>
+                <input type="file" name="cupom_fiscal" id="cupom_fiscal">
+            </div>
+        </div>
+        <input type="number" hidden id="quantidadeTotal">
+        <button type="button" onclick="postNota()">Enviar</button>
+        
+
+
+        
+    </form>
+
+</body>
+</html>
